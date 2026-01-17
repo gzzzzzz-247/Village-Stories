@@ -7,6 +7,7 @@
 ## 洒水器
 ### 范围 5x5 <br>
 支持 农夫乐事 的 耕地 <br>
+###### (图片为农夫乐事耕地)
 ![image](https://github.com/gzzzzzz-247/Village-Stories/blob/main/u1.png)
 
 ## 工业平台
