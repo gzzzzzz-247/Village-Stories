@@ -16,3 +16,6 @@
 左为 Create 样式 使用 磨制闪长岩 <br>
 右为 Vanilla 样式 使用 石头 <br>
 ![image](https://github.com/gzzzzzz-247/Village-Stories/blob/main/u2.png)
+### v0.0.2增加
+农业平台 使用 泥土 <br>
+![image](https://github.com/gzzzzzz-247/Village-Stories/blob/main/u3.png)
