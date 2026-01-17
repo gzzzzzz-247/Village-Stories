@@ -1,9 +1,8 @@
 # Village-Stories
 1.20.1 forge - Village Stories 
 
-Front Mod<br>
-[Create](https://modrinth.com/mod/create/)    <br>
-[farmers-delight](https://modrinth.com/mod/farmers-delight)   <br>
+[modrinth Create](https://modrinth.com/mod/create/)    <br>
+[modrinth farmers-delight](https://modrinth.com/mod/farmers-delight)   <br>
 
 # CN
 中文物品介绍
