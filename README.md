@@ -13,6 +13,7 @@
 ## 工业平台
 ### 自动对齐区块 <br>
 两种平台样式 <br>
+对工业平台右键对应方块 <br>
 左为 Create 样式 使用 磨制闪长岩 <br>
 右为 Vanilla 样式 使用 石头 <br>
 ![image](https://github.com/gzzzzzz-247/Village-Stories/blob/main/u2.png)
